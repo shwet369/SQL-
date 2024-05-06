@@ -1,3 +1,4 @@
+https://simpli-web.app.link/e/UxMWo83enJb
 # SQL-
  information about various SQL concepts and features. Let me provide a brief overview of each:
 
